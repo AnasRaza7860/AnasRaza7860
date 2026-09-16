@@ -9,6 +9,11 @@
 <br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=200&section=header&text=ANAS%20RAZA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Turning%20Ideas%20Into%20Code&descAlignY=60&descSize=18"/>
+
+</div>
 
 <br><br>
 
