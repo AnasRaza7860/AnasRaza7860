@@ -1,26 +1,35 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Anas Raza</h1>
 
-# 👋 Hi, I'm Anas Raza
+<h3 align="center">
+🚀 MERN Development Student | 🎨 Modern Graphic Designer | 📈 Meta Strategist
+</h3>
 
-### 💻 Frontend Developer | Creative Coder | Tech Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=MERN+Development+Student;Modern+Graphic+Designer;Meta+Strategist;HTML+%7C+CSS+%7C+JavaScript;Building+%26+Designing+Digital+Experiences" alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+love+building+web+experiences;Turning+ideas+into+code;Always+learning+something+new+🚀" />
+---
 
-<br>
+### 👨‍💻 About Me
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
-<div align="center">
+* 🎓 1st Year Student
+* 💻 Currently learning **MERN Development**
+* 🌐 Strong in **HTML & CSS**
+* ⚡ Currently improving my **JavaScript**
+* 🎨 Modern **Graphic Designer**
+* 📈 **Meta Strategist**
+* 🚀 Passionate about **Web Development + Design**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=200&section=header&text=ANAS%20RAZA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Turning%20Ideas%20Into%20Code&descAlignY=60&descSize=18"/>
+### 🛠️ Skills
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,photoshop,illustrator" />
+</p>
 
-<br><br>
+### 📊 My Goal
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" width="100%"/>
+> **Learning. Designing. Developing. Growing. 🚀**
 
-<br>
-
-### 🚀 Build • Learn • Grow
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile Views" />
+</p>
